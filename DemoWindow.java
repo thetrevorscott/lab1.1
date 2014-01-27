@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Rich
+ * @author 
  */
 public class DemoWindow
 {
